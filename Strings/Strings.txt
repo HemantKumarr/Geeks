@@ -1,0 +1,1 @@
+Z-algo - simple, boyer moore algo for pattern searching

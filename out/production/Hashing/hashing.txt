@@ -1,0 +1,32 @@
+allows to store data as key-value pairs
+
+search, insert and delete in O(1) time
+
+Hash table - most used DS in CS after array. Present everywhere in software, programming etc
+
+Direct address table where keys are used as index. Cant be used for floating values, string values and for large values like
+phone number as keys, as these values cant be set as an index in an array.
+
+Hash function maps large values to small key values.
+
+Collision - when hash function generates same key for 2 different values.
+
+Perfect Hashing - when we know keys in advance, no collision
+
+Collision Handling
+1. Chaining - The slots in a hash table are headers of a linked list. For every new entry with the same key value, they are
+added in the end of the linked list.
+
+Performance-  m= no. of slots in hash table and n - no. of keys to be inserted
+load factor alpha = n/m, expected chain length = alpha, time to search/insert/delete = O(1+alpha)
+
+DS for storing chains
+1. Linked list - search,insert, delete in O(l) - not cache friendly
+2. Dynamic sized array - Arraylist in java - search,insert, delete in O(l) - cache friendly
+3. Self-Balancing BSTs for search, insert and delete - O(log l) - not cache friendly
+---------------------------
+
+Hash set , hash table and hash map
+
+
+initial part of code should include cases of best possible scenarios

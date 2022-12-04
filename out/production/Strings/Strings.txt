@@ -1,0 +1,57 @@
+Creating a string
+1. String class - immutable string. functions like concat, toUpper, toLower return a new object. They don't modify the
+    existing object.
+    If two string object has same content, then both the objects refer to the same content. Separate memory is not allocated to
+    the other string.
+    E.g String s1 = "geeks";
+        String s2 = "geeks";
+        then s1==s2 and the output is true
+        String s3 = new String("geeks"); // a new memory is allocated to s3
+        s1 refers to a different object than s3 - even though their content is same, hence output is false.
+Frequently used string functions - str.length(), str.charAt(), str.substring(),
+    s1.contains(s2) - checks whether s2 is present in s1 - output is True/false
+    s1.equals(s2) - output is True/False
+    s1.compareTo(s2) - compares char lexicographically (alphabet wise) and returns 0, +ve or -ve value. - can be used in
+    place of equals
+    s1.indexOf(s2) - returns 1st occurrence of s2 in s1, else false - can be used in place of contains()
+    s1.indexOf(s2,3) - searches from index 3
+    s1.lastIndexOf(s2)
+2. StringBuffer - mutable, thread safe
+3. StringBuilder - mutable, not thread safe
+
+ The Tortoise and The Hare Approach - slow = slow.next and fast = fast.next.next
+
+To sort a string (there is no direct sort method in string class that can be used)
+char[] a = s1.toCharArray();
+Arrays.sort(a);
+s1 = new String(a);
+
+
+reports .jsp change karna hoga if new inets or jars are used, and possible changes in other places also.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+apni chiz nikal wane ke liye bolna padta.  i want to stick with comviva
+disha received multiple mails regarding my interim appraisal from HR.
+Corporate rules - how the corporate world works
+
+
+
+
+
+

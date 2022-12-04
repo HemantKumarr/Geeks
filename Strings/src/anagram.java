@@ -1,7 +1,14 @@
+import java.util.Scanner;
+
 public class anagram {
 
     public static void main(String[] args){
-        String s1= "silent", s2="listen";
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter string 1");
+        String s1 = sc.nextLine();
+        System.out.println("Enter string 2");
+        String s2 = sc.nextLine();
+//        String s1= "silent", s2="listen";
         int[] a = new int[256];
         boolean flag=true;
         if(s1.length()!=s2.length()) System.out.println("false");

@@ -39,7 +39,7 @@ public class anagramSearch {
         }
         for (int i = s2.length(); i < s1.length(); i++) {
             if(areSame(count1, count2)){
-                System.out.println(i);
+                System.out.println(true + " " + (i-s2.length()));
                 break;
             }
             count1[s1.charAt(i)]++;
@@ -48,10 +48,9 @@ public class anagramSearch {
     }
 
     private static boolean areSame(int[] count1, int[] count2) {
-        boolean flag=true;
-        for (int i = 0; i <256 ; i++) {
-            if(count1[i]!=count2[i]) flag=false;
+        for (int i = 0; i < 256 ; i++) {
+            if(count1[i]!=count2[i]) return false;
         }
-        return flag;
+        return true;
     }
 }

@@ -16,8 +16,8 @@ public class anagram {
             a[s1.charAt(i)]++;
             a[s2.charAt(i)]--;
         }
-        for (int i = 0; i <256 ; i++) {
-            if(a[i]!=0){
+        for (int i = 0; i <s1.length() ; i++) {
+            if(a[s1.charAt(i)]!=0){
                 flag=false;
                 break;
             }

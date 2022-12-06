@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e19ac2-12d0-4b53-b31e-a1497cd1a40f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Strings/src/lexicographicRank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/src/anagramSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/anagramSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Strings/anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Strings/anagram.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/Strings/src/ReverseWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -38,16 +40,16 @@
         <entry file="file://$PROJECT_DIR$/Strings/src/Rotation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/src/anagramSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="631">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -55,8 +57,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/src/anagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="102">
+              <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/src/lexicographicRank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -65,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/Strings/src/Strings.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -85,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sorting/src/kthSmallest.java" />
         <option value="$PROJECT_DIR$/Sorting/src/mindiff.java" />
         <option value="$PROJECT_DIR$/Sorting/src/chocolateDistri.java" />
         <option value="$PROJECT_DIR$/Sorting/src/lomutoPartition.java" />
@@ -134,8 +144,9 @@
         <option value="$PROJECT_DIR$/Strings/src/leftmostNonrepeating.java" />
         <option value="$PROJECT_DIR$/Strings/src/ReverseWordsInString.java" />
         <option value="$PROJECT_DIR$/Strings/src/Rotation.java" />
-        <option value="$PROJECT_DIR$/Strings/src/anagram.java" />
         <option value="$PROJECT_DIR$/Strings/src/anagramSearch.java" />
+        <option value="$PROJECT_DIR$/Strings/src/anagram.java" />
+        <option value="$PROJECT_DIR$/Strings/src/lexicographicRank.java" />
       </list>
     </option>
   </component>
@@ -153,8 +164,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,7 +191,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670212338258" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670298701696" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -198,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.anagramSearch">
+  <component name="RunManager" selected="Application.lexicographicRank">
     <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseWordsInString" />
       <module name="Strings" />
@@ -227,27 +238,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leftmostNonrepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leftmostNonrepeating" />
+    <configuration name="lexicographicRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lexicographicRank" />
       <module name="Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.leftmostNonrepeating" />
       <item itemvalue="Application.ReverseWordsInString" />
       <item itemvalue="Application.Rotation" />
       <item itemvalue="Application.anagramSearch" />
       <item itemvalue="Application.anagram" />
+      <item itemvalue="Application.lexicographicRank" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.anagramSearch" />
+        <item itemvalue="Application.lexicographicRank" />
         <item itemvalue="Application.anagram" />
+        <item itemvalue="Application.anagramSearch" />
         <item itemvalue="Application.Rotation" />
         <item itemvalue="Application.ReverseWordsInString" />
-        <item itemvalue="Application.leftmostNonrepeating" />
       </list>
     </recent_temporary>
   </component>
@@ -290,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670175381448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1670212363569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670212363569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -380,6 +398,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -412,13 +444,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sorting/src/lomutoPartition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sorting/src/sort2diffTypeArr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -764,38 +789,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/src/Strings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/src/ReverseWordsInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/src/Rotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/src/anagram.java">
+    <entry file="file://$PROJECT_DIR$/Strings/src/Strings.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/src/anagramSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="631">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/src/anagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/src/lexicographicRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,11 @@
+import java.util.Scanner;
+
 public class lexicographicRank {
 
     public static void main(String[] args){
-        String s1 = "STRING";
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter string 1");
+        String s1 = sc.nextLine();
         int[] count = new int[256];
         for (int i = 0; i <s1.length() ; i++) {
             count[s1.charAt(i)]++;

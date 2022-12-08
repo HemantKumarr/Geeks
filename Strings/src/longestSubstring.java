@@ -48,15 +48,13 @@ public class longestSubstring {
     private static void best(String s1) {
         int[] prev = new int[256];
         Arrays.fill(prev,-1);
-        int res=0;
-        int j=0;
-        for (int i = 0; i <s1.length() ; i++) {
-            if(prev[s1.charAt(i)]==-1){
-                prev[s1.charAt(i)]=i;
-                res++;
-            }
-            j=prev[s1.charAt(i)];
-            res = max(res,i-j+1);
+        int res=0;//,maxend;
+        int i=0;
+        for (int j = 0; j <s1.length() ; j++) {
+            i = max(i,prev[s1.charAt(j)]+1);
+            int maxend = j-i+1;
+            res = max(res,maxend);
+            prev[s1.charAt(j)]=j;
 
         }
         System.out.println(res);

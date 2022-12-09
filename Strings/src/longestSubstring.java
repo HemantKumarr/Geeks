@@ -6,8 +6,6 @@ public class longestSubstring {
 
     public static void main(String[] args){
         String s1 = "abcadbd";
-        best(s1);
-        better(s1);
         int res=0;
         for (int i = 0; i < s1.length(); i++) {
             for (int j = i; j <s1.length() ; j++) {
@@ -17,6 +15,8 @@ public class longestSubstring {
             }
         }
         System.out.println(res+ " ");
+        better(s1);
+        best(s1);
     }
 
 

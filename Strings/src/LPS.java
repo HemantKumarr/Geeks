@@ -1,15 +1,15 @@
 public class LPS {
 
     public static void main(String[] args){
-        String text = "ABABACAB";
-        int[] lps = new int[text.length()];
-        for (int i = 0; i <text.length() ; i++) {
-            lps[i] = longPropPreSuff(text,i+1);
+        String pattern = "ABABACAB";
+        int[] lps = new int[pattern.length()];
+        for (int i = 0; i <pattern.length() ; i++) {
+            lps[i] = longPropPreSuff(pattern,i+1);
         }
         for (int i = 0; i <lps.length ; i++) {
             System.out.println(lps[i]);
         }
-        optimize(text);
+        optimize(pattern);
     }
 
     private static int longPropPreSuff(String text, int n) {

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e19ac2-12d0-4b53-b31e-a1497cd1a40f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/KMPAlgo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/LPS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/ReverseWordsInString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/Rotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/anagramSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/lexicographicRank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/longestSubstring.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Strings/patternSearching.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/KMPAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/KMPAlgo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Strings/src/LPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/src/LPS.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,17 +50,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/src/patternSearching.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="68">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/src/LPS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -90,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Strings/src/KMPAlgo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -190,8 +183,8 @@
         <option value="$PROJECT_DIR$/Strings/src/lexicographicRank.java" />
         <option value="$PROJECT_DIR$/Strings/src/longestSubstring.java" />
         <option value="$PROJECT_DIR$/Strings/src/patternSearching.java" />
-        <option value="$PROJECT_DIR$/Strings/src/KMPAlgo.java" />
         <option value="$PROJECT_DIR$/Strings/src/LPS.java" />
+        <option value="$PROJECT_DIR$/Strings/src/KMPAlgo.java" />
       </list>
     </option>
   </component>
@@ -236,7 +229,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670742368860" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670761829628" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -254,16 +247,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LPS">
-    <configuration name="LPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LPS" />
+  <component name="RunManager" selected="Application.KMPAlgo">
+    <configuration name="KMPAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KMPAlgo" />
       <module name="Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anagram" />
+    <configuration name="LPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LPS" />
       <module name="Strings" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -291,19 +284,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.anagram" />
       <item itemvalue="Application.lexicographicRank" />
       <item itemvalue="Application.longestSubstring" />
       <item itemvalue="Application.patternSearching" />
       <item itemvalue="Application.LPS" />
+      <item itemvalue="Application.KMPAlgo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KMPAlgo" />
         <item itemvalue="Application.LPS" />
         <item itemvalue="Application.patternSearching" />
         <item itemvalue="Application.longestSubstring" />
         <item itemvalue="Application.lexicographicRank" />
-        <item itemvalue="Application.anagram" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670741555038</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Initial commit">
+      <created>1670742405288</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670742405288</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -937,24 +937,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/src/KMPAlgo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/src/patternSearching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/src/LPS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/src/KMPAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>

@@ -20,7 +20,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/LinkedList/InsertBegin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/InsertBegin.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LinkedList/InsertEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/InsertEnd.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Node1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/Node1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Node2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Node2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/Node2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Node4.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/LinkedList/src/SearchInLL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
+              <caret line="9" column="25" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -83,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/LinkedList/src/ReverseDLL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
+              <caret line="8" column="25" selection-start-line="2" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -101,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteLastDLL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -109,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="174">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -224,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671124919914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671125486640" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -451,9 +451,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1659919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1659919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -467,7 +466,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49635628" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49635628" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.502834" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49878544" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.23801066" />
@@ -908,14 +907,14 @@
     <entry file="file://$PROJECT_DIR$/LinkedList/src/ReverseDLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
+          <caret line="8" column="25" selection-start-line="2" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteLastDLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -936,14 +935,14 @@
     <entry file="file://$PROJECT_DIR$/LinkedList/src/SearchInLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
+          <caret line="9" column="25" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="174">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

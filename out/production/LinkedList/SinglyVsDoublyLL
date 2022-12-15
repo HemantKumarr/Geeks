@@ -1,0 +1,12 @@
+Advantages
+1. can be traversed in both the directions - Can go to next/prev song in music player,  can go next/prev webpage in browser
+2. Can delete a given node in O(1) time. Same can be done in singly LL except for the last node
+        curr.data = curr.next.data;
+        curr.next=curr.next.next;
+    for the last node curr.next is null so curr.next data can be copied to the curr.data .
+3. Insert/delete before a given node in O(1) time.
+4. Insert/delete from both ends in O(1) time.
+
+Disadvantages
+1. Extra space for previous
+2.  Code complexity increases

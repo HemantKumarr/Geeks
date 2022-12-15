@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e19ac2-12d0-4b53-b31e-a1497cd1a40f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/DeleteEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/InsertBegin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/InsertEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/SinglyLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/CircularLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/DeleteBegin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/DeleteBeginDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/DeleteLastDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/DoubleLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/InsertAtPos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/InsertBeginDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/ReverseDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/SearchInLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/SinglyVsDoublyLL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Strings/KMPAlgo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Strings/KMPAlgo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Strings/LPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Strings/LPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/src/DeleteEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/DeleteEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/src/InsertBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/InsertBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/src/InsertEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/InsertEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/DeleteEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/DeleteEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/InsertBegin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/InsertBegin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/InsertEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/InsertEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Node1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/Node1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Node2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/Node4.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,36 +44,72 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/SinglyLL.java">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/SearchInLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/DoubleLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/SinglyVsDoublyLL">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBeginDLL.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBegin.java">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/ReverseDLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="136">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteEnd.java">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteBeginDLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="27" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="34">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteLastDLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertEnd.java">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="425">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -83,17 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Matrices/src/boundaryTraversal.java" />
-        <option value="$PROJECT_DIR$/Matrices/src/transpose.java" />
-        <option value="$PROJECT_DIR$/Matrices/src/rotateMatrixBy90.java" />
-        <option value="$PROJECT_DIR$/Matrices/src/spiralTraversal.java" />
-        <option value="$PROJECT_DIR$/Matrices/src/searchInRownColumnSorted2dArr.java" />
-        <option value="$PROJECT_DIR$/Matrices/src/pending.txt" />
-        <option value="$PROJECT_DIR$/Sorting/src/stability" />
-        <option value="$PROJECT_DIR$/Searching/src/dupelements.java" />
-        <option value="$PROJECT_DIR$/Sorting/src/sort2diffTypeArr.java" />
-        <option value="$PROJECT_DIR$/Hashing/src/countDistinct.java" />
-        <option value="$PROJECT_DIR$/Hashing/src/frequencyOfEle.java" />
         <option value="$PROJECT_DIR$/Hashing/src/intersection2arr.java" />
         <option value="$PROJECT_DIR$/Hashing/src/union2arr.java" />
         <option value="$PROJECT_DIR$/Hashing/src/subarrOfGivenSum.java" />
@@ -132,16 +168,26 @@
         <option value="$PROJECT_DIR$/Strings/src/LPS.java" />
         <option value="$PROJECT_DIR$/Strings/src/KMPAlgo.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/SinglyLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/DeleteBegin.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/InsertBegin.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/DeleteEnd.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/InsertAtPos.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/InsertEnd.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/SearchInLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/DoubleLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/SinglyVsDoublyLL" />
+        <option value="$PROJECT_DIR$/LinkedList/src/InsertBeginDLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/ReverseDLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/DeleteBeginDLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/DeleteLastDLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/CircularLL.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="420" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -178,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670865399349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671124919914" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -196,56 +242,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertEnd">
-    <configuration name="InsertBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertBegin" />
+  <component name="RunManager" selected="Application.CircularLL">
+    <configuration name="CircularLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircularLL" />
       <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertEnd" />
+    <configuration name="DeleteBeginDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteBeginDLL" />
       <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KMPAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KMPAlgo" />
-      <module name="Strings" />
+    <configuration name="DeleteLastDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteLastDLL" />
+      <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LPS" />
-      <module name="Strings" />
+    <configuration name="InsertBeginDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertBeginDLL" />
+      <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinglyLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SinglyLL" />
+    <configuration name="ReverseDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseDLL" />
       <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KMPAlgo" />
-      <item itemvalue="Application.LPS" />
-      <item itemvalue="Application.SinglyLL" />
-      <item itemvalue="Application.InsertBegin" />
-      <item itemvalue="Application.InsertEnd" />
+      <item itemvalue="Application.InsertBeginDLL" />
+      <item itemvalue="Application.ReverseDLL" />
+      <item itemvalue="Application.DeleteBeginDLL" />
+      <item itemvalue="Application.DeleteLastDLL" />
+      <item itemvalue="Application.CircularLL" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertEnd" />
-        <item itemvalue="Application.InsertBegin" />
-        <item itemvalue="Application.SinglyLL" />
-        <item itemvalue="Application.KMPAlgo" />
-        <item itemvalue="Application.LPS" />
+        <item itemvalue="Application.CircularLL" />
+        <item itemvalue="Application.DeleteLastDLL" />
+        <item itemvalue="Application.DeleteBeginDLL" />
+        <item itemvalue="Application.ReverseDLL" />
+        <item itemvalue="Application.InsertBeginDLL" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +453,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22024292" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1659919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,85 +582,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hashing/src/hashing.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="68" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hashing/src/longestSubarrOfKsum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hashing/src/LongestCommonSpanSumArrs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hashing/src/LongestConsecSubseq.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hashing/src/moreThanN_Koccur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/Strings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="52" selection-start-column="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sorting/src/countInversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sorting/src/insertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hashing/src/countFreqinWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sorting/src/bubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/equilibriumpoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -879,30 +846,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBegin.java">
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/SinglyLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteBegin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteEnd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="425">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#618#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/SinglyLL.java">
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertAtPos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertEnd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBegin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/SinglyVsDoublyLL">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBeginDLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/ReverseDLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteLastDLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/DoubleLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteBeginDLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/SearchInLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>

@@ -18,8 +18,14 @@ public class CircularLL {
         head.next =temp1;
         temp1.next=temp2;
         temp2.next = head;
-
-        for(Node2 t =head;t!=null;t=t.next ) System.out.println(t.data);
+        System.out.println(head.data);
+        for(Node2 t =head.next;t!=head;t=t.next ) System.out.println(t.data);
+        System.out.println("method 2 of traversing circular LL");
+        Node2 r = head;
+        do{
+            System.out.println(r.data);
+            r=r.next;
+        }while(r!=head);
 
     }
 }

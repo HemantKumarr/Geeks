@@ -1,0 +1,8 @@
+Adv
+1. Whole linked list can be traversed from any given node.
+2. Implementation of Round robin can be done very efficiently using CLL.
+3. Insert at start/end can be done by maintaining one reference.
+4. Queue data structure can be easily implemented.
+
+Disadvantages
+1. Implementation of operations becomes complex.

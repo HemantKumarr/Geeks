@@ -12,6 +12,7 @@ public class InsertEndCLL {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
         Node2 temp = new Node2(x);
+        if(head==null)temp.next=temp;
         int y = head.data;
         head.data = temp.data;
         temp.data=y;
@@ -30,7 +31,6 @@ public class InsertEndCLL {
         head.next =temp1;
         temp1.next=temp2;
         temp2.next = head;
-
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
         Node2 temp = new Node2(x);

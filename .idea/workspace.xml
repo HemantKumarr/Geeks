@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e19ac2-12d0-4b53-b31e-a1497cd1a40f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/CDLL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/CircularDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/DeleteHeadCLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/DeleteKthNodeCLL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/src/CircularLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/CircularLL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LinkedList/src/InsertEndCLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/InsertEndCLL.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,17 +33,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedList/src/CLLAdvnDisadv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/CDLL">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -46,17 +51,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBeginCLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="26" selection-start-line="4" selection-start-column="7" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertEndCLL.java">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularDLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+            <state relative-caret-position="223">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteKthNodeCLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -76,10 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hashing/src/subarrOfKsum.java" />
-        <option value="$PROJECT_DIR$/Hashing/src/subarrOf0sum.java" />
-        <option value="$PROJECT_DIR$/Hashing/src/hashing.txt" />
-        <option value="$PROJECT_DIR$/Hashing/src/longestSubarrOfKsum.java" />
         <option value="$PROJECT_DIR$/Hashing/src/LongestSubArrEqual0n1.java" />
         <option value="$PROJECT_DIR$/Hashing/src/LongestCommonSpanSumArrs.java" />
         <option value="$PROJECT_DIR$/Hashing/src/LongestConsecSubseq.java" />
@@ -124,9 +143,13 @@
         <option value="$PROJECT_DIR$/LinkedList/src/DeleteEndDLL.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/InsertEndDLL.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/CLLAdvnDisadv" />
-        <option value="$PROJECT_DIR$/LinkedList/src/CircularLL.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/InsertBeginCLL.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/InsertEndCLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/DeleteHeadCLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/DeleteKthNodeCLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/CDLL" />
+        <option value="$PROJECT_DIR$/LinkedList/src/CircularLL.java" />
+        <option value="$PROJECT_DIR$/LinkedList/src/CircularDLL.java" />
       </list>
     </option>
   </component>
@@ -170,7 +193,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671276852934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671289826284" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -188,7 +211,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertEndCLL">
+  <component name="RunManager" selected="Application.CircularDLL">
+    <configuration name="CircularDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CircularDLL" />
+      <module name="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CircularLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircularLL" />
       <module name="LinkedList" />
@@ -196,15 +226,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteLastDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteLastDLL" />
+    <configuration name="DeleteHeadCLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteHeadCLL" />
       <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertBeginCLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertBeginCLL" />
+    <configuration name="DeleteKthNodeCLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteKthNodeCLL" />
       <module name="LinkedList" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -217,27 +247,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertEndDLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertEndDLL" />
-      <module name="LinkedList" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.CircularLL" />
-      <item itemvalue="Application.DeleteLastDLL" />
-      <item itemvalue="Application.InsertEndDLL" />
-      <item itemvalue="Application.InsertBeginCLL" />
       <item itemvalue="Application.InsertEndCLL" />
+      <item itemvalue="Application.DeleteHeadCLL" />
+      <item itemvalue="Application.DeleteKthNodeCLL" />
+      <item itemvalue="Application.CircularDLL" />
+      <item itemvalue="Application.CircularLL" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertEndCLL" />
-        <item itemvalue="Application.InsertBeginCLL" />
+        <item itemvalue="Application.CircularDLL" />
         <item itemvalue="Application.CircularLL" />
-        <item itemvalue="Application.InsertEndDLL" />
-        <item itemvalue="Application.DeleteLastDLL" />
+        <item itemvalue="Application.DeleteKthNodeCLL" />
+        <item itemvalue="Application.DeleteHeadCLL" />
+        <item itemvalue="Application.InsertEndCLL" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671275992176</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Initial commit">
+      <created>1671276881983</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1671276881983</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -436,7 +466,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1708502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1708502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -565,34 +595,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/longestevenodd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/majorityele.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/maxconsec1s.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/maxdiff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/maxsumsubarr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -895,13 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/CLLAdvnDisadv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertAtPos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-98">
@@ -909,24 +904,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertEndCLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="357">
+          <caret line="21" column="77" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteHeadCLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="10" selection-start-column="7" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/CLLAdvnDisadv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/CDLL">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteKthNodeCLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBeginCLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="4" selection-start-column="7" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertEndCLL.java">
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularDLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

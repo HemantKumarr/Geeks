@@ -1,0 +1,8 @@
+Adv
+1. We get the advantage of both circular and doubly linked list.
+2. We can access last node without maintaining extra tail reference.
+3. Traverse back n forth is possible from any node
+4. insert/delete at any given node is possible
+5. Round robin can be easily implemented.
+DisAdv
+1. Extra space is needed

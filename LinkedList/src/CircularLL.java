@@ -1,10 +1,8 @@
 class Node2{
     int data;
-    Node2 prev =null;
     Node2 next =null;
     Node2(int x){
         data = x;
-        prev = null;
         next = null;
     }
 }
@@ -20,7 +18,7 @@ public class CircularLL {
         temp2.next = head;
         System.out.println(head.data);
         for(Node2 t =head.next;t!=head;t=t.next ) System.out.println(t.data);
-        System.out.println("method 2 of traversing circular LL");
+        System.out.println("Method 2 of traversing circular LL");
         Node2 r = head;
         do{
             System.out.println(r.data);

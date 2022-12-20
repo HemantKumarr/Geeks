@@ -1,0 +1,11 @@
+1.  while(curr.next!=null && temp.data>curr.next.data ) curr=curr.next;
+All the corner cases should be written first in the conditions.
+ -- curr.next!=null && temp.data>curr.next.data in place of this way, if the condition was written as  temp.data>curr.next.data
+ curr.next!=null then you will get null pointer exception.
+ Since we are accessing curr.next's data we need to first make sure that curr.next is not null  - Imp. point
+ As, if the curr.next.data is fetched that implies curr.next is not null.
+ Hence curr.next!=null is written before the other condition.
+
+2. Using multiple ways to solve a problem i.e naive and then optimize. Be careful as the previous approach might have changed the
+existing links, because of which optimized approach might now work even though the code is correct.
+

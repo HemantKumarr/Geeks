@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e19ac2-12d0-4b53-b31e-a1497cd1a40f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/CloneRandomLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/DeleteGivenNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/IntersectionLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/MergeSortLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/PairwiseSwapLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/PalindromeLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/SegreagteOddEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/src/MiddleNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/MiddleNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/src/kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/src/kthSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Geeks/frequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Geeks/frequency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LinkedList/MiddleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LinkedList/MiddleNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sorting/kthSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sorting/kthSmallest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Sorting/stability" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sorting/stability" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/src/MergeSortLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/MergeSortLL.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LinkedList/src/MergeSortLL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -226,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671780422216" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671780614537" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -497,6 +485,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12469636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -982,8 +971,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/MergeSortLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

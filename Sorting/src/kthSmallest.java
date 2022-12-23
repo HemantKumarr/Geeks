@@ -2,7 +2,7 @@ public class kthSmallest {
 
     public static void main(String[] args){
         int[] a = {3,7,5,9,10,12,6,2,0,7};
-        int k = 3, low=0,high=a.length-1;
+        int k = 8, low=0,high=a.length-1;
         while(low<=high){
             int p = lomuto(a,low,high);
             if(p==(k-1)) {

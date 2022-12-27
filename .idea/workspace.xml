@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e19ac2-12d0-4b53-b31e-a1497cd1a40f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Stack/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/BalancedParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Impl2StackInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/LargeRectAreaHistogram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/NextGreaterEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/PreviousGreaterEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/StackArrayImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/StackArrayListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/StackLinkedListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/src/StockSpanProbem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList/src/MergeSortLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/src/MergeSortLL.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,82 +37,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/IntersectionLL.java">
+        <entry file="file://$PROJECT_DIR$/Stack/src/Notes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/PairwiseSwapLL.java">
+        <entry file="file://$PROJECT_DIR$/Stack/src/BalancedParanthesis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="70">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/ReverseLL.java">
+        <entry file="file://$PROJECT_DIR$/Stack/src/Impl2StackInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="155">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
+                <element signature="e#972#973#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/MiddleNode.java">
+        <entry file="file://$PROJECT_DIR$/Stack/src/StockSpanProbem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/CloneRandomLL.java">
+        <entry file="file://$PROJECT_DIR$/Stack/src/NextGreaterEle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/PalindromeLL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="23" column="124" selection-start-line="23" selection-start-column="124" selection-end-line="23" selection-end-column="124" />
+            <state relative-caret-position="238">
+              <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/MergeSortLL.java">
+        <entry file="file://$PROJECT_DIR$/Stack/src/LargeRectAreaHistogram1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="306">
+              <caret line="42" column="84" selection-start-line="42" selection-start-column="84" selection-end-line="42" selection-end-column="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/SinglyLL.java">
+        <entry file="file://$PROJECT_DIR$/Stack/src/PreviousGreaterEle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteGivenNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="221">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -126,16 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Strings/src/Rotation.java" />
-        <option value="$PROJECT_DIR$/Strings/src/anagramSearch.java" />
-        <option value="$PROJECT_DIR$/Strings/src/anagram.java" />
-        <option value="$PROJECT_DIR$/Strings/src/lexicographicRank.java" />
-        <option value="$PROJECT_DIR$/Strings/src/longestSubstring.java" />
-        <option value="$PROJECT_DIR$/Strings/src/patternSearching.java" />
-        <option value="$PROJECT_DIR$/Strings/src/LPS.java" />
-        <option value="$PROJECT_DIR$/Strings/src/KMPAlgo.java" />
-        <option value="$PROJECT_DIR$/LinkedList/src/SinglyLL.java" />
-        <option value="$PROJECT_DIR$/LinkedList/src/DeleteBegin.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/InsertBegin.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/DeleteEnd.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/InsertAtPos.java" />
@@ -177,6 +172,16 @@
         <option value="$PROJECT_DIR$/LinkedList/src/PalindromeLL.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/MiddleNode.java" />
         <option value="$PROJECT_DIR$/LinkedList/src/MergeSortLL.java" />
+        <option value="$PROJECT_DIR$/Stack/src/StackArrayImpl.java" />
+        <option value="$PROJECT_DIR$/Stack/src/StackArrayListImpl.java" />
+        <option value="$PROJECT_DIR$/Stack/src/StackLinkedListImpl.java" />
+        <option value="$PROJECT_DIR$/Stack/src/BalancedParanthesis.java" />
+        <option value="$PROJECT_DIR$/Stack/src/Notes" />
+        <option value="$PROJECT_DIR$/Stack/src/Impl2StackInArray.java" />
+        <option value="$PROJECT_DIR$/Stack/src/StockSpanProbem.java" />
+        <option value="$PROJECT_DIR$/Stack/src/PreviousGreaterEle.java" />
+        <option value="$PROJECT_DIR$/Stack/src/NextGreaterEle.java" />
+        <option value="$PROJECT_DIR$/Stack/src/LargeRectAreaHistogram1.java" />
       </list>
     </option>
   </component>
@@ -203,7 +208,13 @@
             <path>
               <item name="Geeks" type="b2602c69:ProjectViewProjectNode" />
               <item name="Geeks" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geeks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geeks" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,7 +225,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671780614537" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1672126071314" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -232,56 +243,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSortLL">
-    <configuration name="CloneRandomLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CloneRandomLL" />
-      <module name="LinkedList" />
+  <component name="RunManager" selected="Application.LargeRectAreaHistogram1">
+    <configuration name="Impl2StackInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Impl2StackInArray" />
+      <module name="Stack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortLL" />
-      <module name="LinkedList" />
+    <configuration name="LargeRectAreaHistogram1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargeRectAreaHistogram1" />
+      <module name="Stack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MiddleNode" />
-      <module name="LinkedList" />
+    <configuration name="NextGreaterEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NextGreaterEle" />
+      <module name="Stack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeLL" />
-      <module name="LinkedList" />
+    <configuration name="PreviousGreaterEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreviousGreaterEle" />
+      <module name="Stack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLL" />
-      <module name="LinkedList" />
+    <configuration name="StockSpanProbem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockSpanProbem" />
+      <module name="Stack" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseLL" />
-      <item itemvalue="Application.CloneRandomLL" />
-      <item itemvalue="Application.MiddleNode" />
-      <item itemvalue="Application.PalindromeLL" />
-      <item itemvalue="Application.MergeSortLL" />
+      <item itemvalue="Application.Impl2StackInArray" />
+      <item itemvalue="Application.StockSpanProbem" />
+      <item itemvalue="Application.PreviousGreaterEle" />
+      <item itemvalue="Application.NextGreaterEle" />
+      <item itemvalue="Application.LargeRectAreaHistogram1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeSortLL" />
-        <item itemvalue="Application.PalindromeLL" />
-        <item itemvalue="Application.MiddleNode" />
-        <item itemvalue="Application.CloneRandomLL" />
-        <item itemvalue="Application.ReverseLL" />
+        <item itemvalue="Application.LargeRectAreaHistogram1" />
+        <item itemvalue="Application.NextGreaterEle" />
+        <item itemvalue="Application.PreviousGreaterEle" />
+        <item itemvalue="Application.StockSpanProbem" />
+        <item itemvalue="Application.Impl2StackInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +498,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12469636" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19595142" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -501,7 +512,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49554655" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49554655" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50364375" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49635628" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.23801066" />
@@ -616,76 +627,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertBeginDLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/ReverseDLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteBeginDLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="2" selection-start-column="8" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteLastDLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="81" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/CLLAdvnDisadv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertEndDLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertAtPos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/InsertEndCLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="77" selection-start-line="21" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteHeadCLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="10" selection-start-column="7" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteKthNodeCLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/CircularDLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -899,21 +840,21 @@
     <entry file="file://$PROJECT_DIR$/LinkedList/src/IntersectionLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/PairwiseSwapLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/DeleteGivenNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="10" selection-end-column="25" />
+          <caret line="10" column="25" selection-start-line="2" selection-start-column="8" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -937,21 +878,21 @@
     <entry file="file://$PROJECT_DIR$/LinkedList/src/CloneRandomLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/SinglyLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/ReverseLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
+          <caret line="18" column="9" selection-start-line="12" selection-start-column="8" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -965,14 +906,104 @@
     <entry file="file://$PROJECT_DIR$/LinkedList/src/MiddleNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="25" selection-start-line="2" selection-start-column="8" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LinkedList/src/MergeSortLL.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/StockSpanProbem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/Impl2StackInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/BalancedParanthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/StackLinkedListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/StackArrayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="45" column="1" lean-forward="true" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/StackArrayListImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/PreviousGreaterEle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/NextGreaterEle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stack/src/LargeRectAreaHistogram1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="84" selection-start-line="42" selection-start-column="84" selection-end-line="42" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

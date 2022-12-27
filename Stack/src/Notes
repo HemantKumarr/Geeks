@@ -1,0 +1,23 @@
+Functions
+1. Peek() - returns top element
+2. isEmpty() - returns boolean value if empty or not
+3. size() - returns the size of the stack
+
+Modify the stack
+4. push() - insert an element at the top of the stack.
+5. pop() -  deletes the top element of the stack.
+
+
+Underflow - when pop or peek is called on an empty stack.
+Overflow -  when push is called to a full stack. generally doesnt happen since dyanamic sized array or LL is used.
+
+Applications
+1. Stack span
+2. Infix - Postfix/Prefix
+3. Recursive Function call stack
+4. Undo/Redo - Forward/Backward
+
+
+ These Paradoxes Keep Scientists Awake At Night! No Solutions!
+Destiny
+1.51M subscriber

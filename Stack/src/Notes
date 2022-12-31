@@ -9,7 +9,7 @@ Modify the stack
 
 
 Underflow - when pop or peek is called on an empty stack.
-Overflow -  when push is called to a full stack. generally doesnt happen since dyanamic sized array or LL is used.
+Overflow -  when push is called to a full stack. generally doesnt happen since dynamic sized array or LL is used.
 
 Applications
 1. Stack span
@@ -18,6 +18,33 @@ Applications
 4. Undo/Redo - Forward/Backward
 
 
- These Paradoxes Keep Scientists Awake At Night! No Solutions!
-Destiny
-1.51M subscriber
+Infix to    postfix to prefix
+a+b*c       abc*+      +a*bc
+a*b/c       ab*c/      /*abc
+a+b/c-d*e   abc/+de*-
+a^b^c       abc^^       ^a^bc
+
+Postfix expression is traversed from left to right.
+If x is an operator, op1 = stack.pop() and op2 = stack.pop(). Evaluate op2 x op1 (not op1 x op2) and push the result into the stack.
+
+Input: str = “2 3 1 * + 9 -“
+Output: -4
+Explanation: 
+
+Scan 2, it’s a number, so push it to stack. Stack contains ‘2’ 
+Scan 3, again a number, push it to stack, stack now contains ‘2 3’ (from bottom to top) 
+Scan 1, again a number, push it to stack, stack now contains ‘2 3 1’ 
+Scan *, it’s an operator, pop two operands from stack, apply the * operator on operands, we get 3*1 which results in 3. We push the result 3 to stack.
+The stack now becomes ‘2 3’. 
+Scan +, it’s an operator, pop two operands from stack, apply the + operator on operands, we get 3 + 2 which results in 5. We push the result 5 to stack.
+The stack now becomes ‘5’. 
+Scan 9, it’s a number, so we push it to the stack. The stack now becomes ‘5 9’. 
+Scan -, it’s an operator, pop two operands from stack, apply the – operator on operands, we get 5 – 9 which results in -4. We push the result -4 to
+the stack. The stack now becomes ‘-4’. 
+There are no more elements to scan, we return the top element from the stack (which is the only element left in a stack).
+
+Prefix expression is traversed from right to left and whenever we see an operator we pop the last 2 elements.
+If x is an operator, op1 = stack.pop() and op2 = stack.pop(). Evaluate op1 x op2 (not op2 x op1) and push the result into the stack.
+-10 2  = 10-2 not 2-10
+
+Implementation of k stacks in  an array - pending

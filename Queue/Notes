@@ -1,0 +1,30 @@
+Queue Data Structure - FIFO - First in First Out
+
+enqueue() - to insert an item at rear end
+dequeue() - to delete an item from front end and returns the deleted element
+getFront()
+getLast()
+size()
+isEmpty()
+
+Application
+Mainly used in resource management and synchronization in OS.
+1. FCFS - First Come First Served use in OS (Semaphores, Scheduling, Spooling, buffer for devices like keyboard).
+2. Sync between slow n fast devices - Main application
+3. Single resource and multiple consumers. - Main application
+4. In computer Networks (Routers/Switches and Mail queues)
+5. Variations - Deque (Doubly ended queue), Priority queue, Doubly ended priority queue
+
+Java has queue as an interface
+It has 2 implementations
+1. using Linked list
+2. using array list (ArrayDeque is used) - this is preferred because of cache friendliness.
+
+Methods
+1. offer() - to add an item at the end of queue. return type is boolean. IF Successfully added then true else false
+2. peek() - gives the item which is going to be removed i.e the first item in the queue. returns null if queue is empty.
+3. poll() - removes the first item and returns the first item.
+empty(), size()
+
+Below 3 are counterparts of above 3 methods but they throw an exception in failed cases
+element() , add(), remove()

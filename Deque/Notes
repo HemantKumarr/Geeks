@@ -1,0 +1,21 @@
+Deque - Doubly ended queue
+Insertion n Deletion can be done from both the ends.
+
+Can be implemented using Linked List (Doubly Linked List) and Array
+
+
+
+Applications
+1. Can be used as both stack n queue.
+2. Maintaining history of actions
+3. A steal Process scheduling algo - If There are 2 processors P1 n P2. If P1 has 3 threads assigned and P2 is empty then
+P2 can pick some threads from the rear of queue for P1 using deletion from the end.
+4. Implementing a Priority queue with 2 types of priorities. - all the threads of Priority 1 can be inserted in the front and
+all the threads of priority 2 can be insert in the end.
+5. Max/min of all subarrays of size k in an array.
+
+Uses
+
+
+The Pragmatic Programmer book pdf
+
